@@ -1,4 +1,4 @@
-# CPU5 SystemVerilog Project (homework11)
+# CPU5 SystemVerilog Project
 
 This repository contains a **32-bit, MIPS-like, 5‑stage pipelined CPU** (“**cpu5**”) implemented in **SystemVerilog**, along with a self-checking-ish **simulation testbench** and **program/memory initialization** files.
 
